@@ -7,7 +7,7 @@ This is a ecommerce website application. There are different products, user can 
 https://redux-shopping-ps.herokuapp.com/ 
 
 ## Screenshot of the app
-![Book_search](./assets/images/Book_search.png)
+![screenshot](./client/public/images/screenshot.png)
 
 ## User Story
 
